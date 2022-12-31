@@ -1,0 +1,83 @@
+.bg {
+    height: auto;
+    width: 100%;
+    left: 0px;
+    top: 3682.5px;
+    border-radius: 0px;
+
+    background: linear-gradient(180deg, #F3F5F7 0%, #FFFFFF 100%);
+
+}
+
+.bg h1 {
+    font-family: Montserrat;
+    font-size: 41px;
+    font-weight: 800;
+    line-height: 50px;
+    text-align: center;
+
+    padding-top: 65px;
+    color: #C0C2C6;
+}
+
+.card-testi {
+    margin-top: 42px;
+    padding: 30px;
+    height: auto;
+    width: 100%;
+    border-radius: 14px;
+    background: #FFFFFF;
+    filter: drop-shadow(-5px 14px 22px rgba(28, 38, 54, 0.0855));
+}
+
+.card-testi img {
+    height: 23px;
+    width: 32px;
+}
+
+.card-testi p {
+    font-family: Source Sans Pro;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+
+}
+
+.identitas {
+    display: flex;
+    align-items: center;
+}
+
+.identitas img {
+    height: 42px;
+    width: 42px;
+}
+
+.identitas h4 {
+    margin: 0;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.identitas p {
+    margin: 0;
+    font-family: Montserrat;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 14px;
+    font-style: normal;
+    text-align: left;
+    color: #94969B;
+
+}
+
+.identitas .text {
+    margin-left: 10px;
+    padding: 0;
+}

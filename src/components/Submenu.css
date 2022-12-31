@@ -1,0 +1,33 @@
+.submenu {
+    /* display: flex; */
+    /* width: 100%; */
+    /* z-index: 15; */
+    /* position: absolute; */
+    width: 80%;
+    margin: auto;
+    background-color: #ffff;
+}
+
+@media screen and (max-width: 1000px) {
+    .lili {
+        display: none;
+    }
+    .containerr {
+        
+    }
+}
+
+.containerr {
+    width: 100%;
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 100px;
+    margin: auto;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 54.71px;
+}

@@ -1,0 +1,53 @@
+.title {
+    display: flex;
+    align-items: center;
+    font-family: Montserrat;
+    font-size: 26px;
+    font-weight: 800;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: left;
+
+}
+
+.title .lihatSemua {
+    color: #2BA0E7;
+    font-size: 15px;
+    margin-left: auto;
+}
+
+.title img {
+    padding-right: 10px;
+    height: 35px;
+    width: 30.757566452026367px;
+    left: 111px;
+    top: 624px;
+    border-radius: 0px;
+}
+
+.timer {
+    display: flex;
+    align-items: center;
+    height: 27px;
+    margin-left: 10px;
+    width: 131px;
+    border-radius: 12px;
+
+    background: linear-gradient(225.66deg, #FFAA5D -30.42%, #F63C3C 91.94%);
+}
+
+.timer p {
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #ffff;
+}
+
+.timer .icon-timer {
+    margin: 6px;
+    height: 14px;
+    width: 14px;
+}

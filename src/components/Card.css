@@ -1,0 +1,53 @@
+@media screen and (max-width: 1000px) {
+    .title-card {
+        font-size: 2px;
+    }
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    background: #FFFFFF;
+    filter: drop-shadow(0px 3.5px 4px rgba(0, 0, 0, 0.131556));
+}
+
+.title-card {
+    font-size: 10px;
+    margin: 0;
+}
+
+.card img {
+    border-radius: 10px 10px 0 0;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    padding: 8px 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+}
+
+.star {
+    display: flex;
+    align-items: center;
+    height: 14px;
+    margin-bottom: 20px;
+}
+
+.star .icon-star {
+    width: 10.92px;
+    height: 9.95px;
+}
+
+.diskon {
+    background: #FFE0E0;
+    color: #F94759;
+    font-size: 10.5px;
+    font-weight: 800;
+    padding: 4px;
+    border-radius: 3px;
+}
